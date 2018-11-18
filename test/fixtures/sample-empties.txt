@@ -1,0 +1,393 @@
+--------------------------------
+MYMEDICARE.GOV PERSONAL HEALTH INFORMATION
+
+--------------------------------
+**********CONFIDENTIAL***********
+
+Produced by the Blue Button (v2.0)
+
+11/15/2018 7:07 AM
+
+
+
+
+--------------------------------
+Demographic
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+Name: John Doe
+
+Date of Birth: 3/25/1984
+
+Address Line 1: 545 Beer Sheva
+
+Address Line 2:
+
+City: Dvira
+
+State: TN
+
+Zip: 87416
+
+Phone Number:
+
+Email: test@outlook.com
+
+Part A Effective Date: 11/1/2018
+
+Part B Effective Date: 10/1/2018
+
+
+
+--------------------------------
+Emergency Contact
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+
+--------------------------------
+Self Reported Medical Conditions
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+Condition Name: Allergies
+
+Medical Condition Start Date: 11/12/1984
+
+Medical Condition End Date:
+
+
+
+Condition Name: High Blood Pressure
+
+Medical Condition Start Date: 5/20/2018
+
+Medical Condition End Date:
+
+
+
+Condition Name: Other
+
+Medical Condition Start Date: 4/1/2016
+
+Medical Condition End Date:
+
+
+
+--------------------------------
+Self Reported Allergies
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+Allergy Name: Anticonvulsants
+
+Type: Drugs
+
+Reaction: Skin Rash
+
+Severity: Severe
+
+Diagnosed:
+
+Treatment:
+
+First Episode Date:
+
+Last Episode Date:
+
+Last Treatment Date:
+
+Comments:
+
+
+
+Allergy Name: Penicillin
+
+Type: Medications
+
+Reaction: Skin Rash
+
+Severity: Severe
+
+Diagnosed:
+
+Treatment:
+
+First Episode Date:
+
+Last Episode Date:
+
+Last Treatment Date:
+
+Comments:
+
+
+
+--------------------------------
+Self Reported Implantable Device
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+
+--------------------------------
+Self Reported Immunizations
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+Immunization Name: dtap
+
+Date Administered:5/29/2018
+
+Method: Injection
+
+Were you vaccinated in the US:
+
+Comments:
+
+Booster 1 Date:
+
+Booster 2 Date:
+
+Booster 3 Date:
+
+
+
+Immunization Name: hepb
+
+Date Administered:5/29/2018
+
+Method: Injection
+
+Were you vaccinated in the US:
+
+Comments:
+
+Booster 1 Date:
+
+Booster 2 Date:
+
+Booster 3 Date:
+
+
+
+Immunization Name: hib
+
+Date Administered:11/15/2017
+
+Method: Injection
+
+Were you vaccinated in the US:
+
+Comments:
+
+Booster 1 Date:
+
+Booster 2 Date:
+
+Booster 3 Date:
+
+
+
+Immunization Name: pcv
+
+Date Administered:1/4/2016
+
+Method: Injection
+
+Were you vaccinated in the US:
+
+Comments:
+
+Booster 1 Date:
+
+Booster 2 Date:
+
+Booster 3 Date:
+
+
+
+--------------------------------
+Self Reported Labs and Tests
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+
+--------------------------------
+Self Reported Vital Statistics
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+
+--------------------------------
+Family Medical History
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+
+--------------------------------
+Drugs
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+Drug Name: Aripiprazole TAB 10MG
+
+Supply: 30 Every 1 Month
+
+Orig Drug Entry: Abilify
+
+
+
+Drug Name: Duloxetine Hcl CAP 30MG
+
+Supply: 30 Every 1 Month
+
+Orig Drug Entry: Cymbalta
+
+
+
+--------------------------------
+Preventive Services
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+A Note to Medicare Advantage Beneficiaries
+
+
+
+Medicare offers various preventive services which help you stay healthy, identify health problems early, and prevent certain diseases or illnesses. For complete information about Medicare preventive services, you can go to the Medicare.gov Preventive Services page. In addition, as a Medicare Advantage beneficiary, you should contact your plan administrator to determine if you are eligible for any of the listed preventive services.
+
+
+
+--------------------------------
+Providers
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+
+--------------------------------
+Pharmacies
+
+--------------------------------
+
+Source: Self-Entered
+
+
+
+Pharmacy Name: Walgreens #4677 2244 Murfreesboro Rd Nashville, 37217
+
+Pharmacy Phone: 615-367-0733
+
+
+
+--------------------------------
+Plans
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+Contract ID/Plan ID: H2817/012
+
+Plan Period: 10/01/2018 - current
+
+Plan Name: BlueAdvantage Garnet (PPO)
+
+Marketing Name: BlueCross BlueShield of Tennessee
+
+Plan Address: 1 Cameron Hill Circle  Chattanooga TN 37402
+
+Plan Type: 3 - Coordinated Care MA Plan (HMO, PSO, PPO)
+
+
+
+--------------------------------
+Employer Subsidy
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+
+--------------------------------
+Primary Insurance
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+
+--------------------------------
+Other Insurance
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+
+--------------------------------
+Claim Summary
+
+--------------------------------
+
+Source: MyMedicare.gov
+
+
+
+

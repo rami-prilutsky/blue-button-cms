@@ -4,7 +4,7 @@ node_js:
     - "lts/*"
 
 before_script:
-    - npm install -g grunt-cli@0.1.x
+    - npm install -g grunt-cli
     - npm install --quiet
     - npm install -g mocha
     - npm install -g istanbul

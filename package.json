@@ -8,7 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt mocha"
   },
   "author": "Dmitry Kachaev <dmitry@amida-tech.com>",
   "contributors": [
@@ -53,13 +53,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amida-tech/blue-button-cms.git"
+    "url": "https://github.com/rami-prilutsky/blue-button-cms.git"
   },
   "keywords": [
     "bluebutton,cms,parsing"
   ],
   "bugs": {
-    "url": "https://github.com/amida-tech/blue-button-cms/issues"
+    "url": "https://github.com/rami-prilutsky/blue-button-cms/issues"
   },
-  "homepage": "https://github.com/amida-tech/blue-button-cms"
+  "homepage": "https://github.com/rami-prilutsky/blue-button-cms"
 }

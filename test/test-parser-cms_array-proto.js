@@ -29,7 +29,7 @@ if (!Array.prototype.find) {
     };
 }
 
-describe('parser.js', function () {
+describe('parser.js array-proto', function () {
     it('CMS parser/model validation', function (done) {
         var txtfile = fs.readFileSync(__dirname + '/fixtures/sample.txt', 'utf-8');
 

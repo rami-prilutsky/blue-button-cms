@@ -14,6 +14,7 @@ describe('parser.js', function () {
 
         //convert string into JSON
         var result = bbcms.parseText(txtfile);
+        //console.log(JSON.stringify(result))
         expect(result).to.exist;
 
         var valid = bbm.validator.validateDocumentModel(result);
@@ -43,6 +44,27 @@ describe('parser.js', function () {
         }
 
         expect(valid).to.be.true;
+
+        done();
+    });
+
+    it('Empty Sections', function (done) {
+        var txtfile = fs.readFileSync(__dirname + '/fixtures/sample-empties.txt', 'utf-8');
+
+        expect(txtfile).to.exist;
+
+        //convert string into JSON
+        var result = bbcms.parseText(txtfile);
+        expect(result).to.exist;
+
+        /*
+        var valid = bbm.validator.validateDocumentModel(result);
+
+        if (!valid) {
+            console.log("Errors: \n", JSON.stringify(bbm.validator.getLastError(), null, 4));
+        }
+
+        expect(valid).to.be.true; */
 
         done();
     });
